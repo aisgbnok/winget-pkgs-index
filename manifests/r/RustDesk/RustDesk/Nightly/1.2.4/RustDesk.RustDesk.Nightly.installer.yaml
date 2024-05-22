@@ -1,4 +1,4 @@
-# Automatically updated by the winget bot at 2024/May/14
+# Automatically updated by the winget bot at 2024/May/21
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
 
 PackageIdentifier: RustDesk.RustDesk.Nightly
@@ -14,9 +14,9 @@ ReleaseDate: 2024-01-05
 Installers:
 - Architecture: x86
   InstallerUrl: https://github.com/rustdesk/rustdesk/releases/download/nightly/rustdesk-1.2.4-x86-sciter.exe
-  InstallerSha256: BE1F999496CC5905AE3EEF70D68E14031C785EE7449586703D0BBFB9E372A734
+  InstallerSha256: F64C7051C95367A8D1FFA670A86A5521618B7C6094DB7BEF1D2B8D363EA4BFAD
 - Architecture: x64
   InstallerUrl: https://github.com/rustdesk/rustdesk/releases/download/nightly/rustdesk-1.2.4-x86_64.exe
-  InstallerSha256: 852F974245D07B27322BB38319C728ACA2BF2969EBEA4C58695F2CEECEA6E5E1
+  InstallerSha256: 9D60B211830E81C642AFAF434D425A0870A74B9DEE5EE1E05136F769442D2076
 ManifestType: installer
 ManifestVersion: 1.5.0
