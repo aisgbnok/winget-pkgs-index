@@ -1,7 +1,7 @@
 # Created with YamlCreate.ps1 v2.0.4 $debug=QUSU.7-2-1
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.1.0.schema.json
 
-PackageIdentifier: luyuhuang.DWords2
+PackageIdentifier: LuyuHuang.DWords2
 PackageVersion: 0.2.1
 PackageLocale: en-US
 Publisher: Luyu Huang
@@ -17,7 +17,7 @@ Copyright: Copyright © 2021 Luyu Huang
 # CopyrightUrl: 
 ShortDescription: Show words as Danmaku on the screen to help you memorize them.
 Description: DWords is a desktop application that displays words as Danmaku (floating scroll messages) on your screen. This will repeat words in front of you over and over again to help you memorize them when using the computer. DWords is developed using Electron + Vue + Bootstrap and supports both Windows and macOS.
-# Moniker: 
+# Moniker: dwords2
 Tags:
 - English
 - words

@@ -1,7 +1,7 @@
 # Created with YamlCreate.ps1 v2.0.2 $debug=QUSU.7-2-0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.1.0.schema.json
 
-PackageIdentifier: luyuhuang.DWords2
+PackageIdentifier: LuyuHuang.DWords2
 PackageVersion: 0.2.0
 PackageLocale: zh-CN
 Publisher: Luyu Huang
@@ -17,7 +17,7 @@ Copyright: Copyright © 2021 Luyu Huang
 # CopyrightUrl: 
 ShortDescription: 把单词变成屏幕上的弹幕来帮助你记住它们
 Description: DWords 是一个桌面应用, 它将单词以弹幕的形式显示在屏幕上。这将一遍又一遍地在你眼前重复展示单词来帮助你在使用电脑的过程中记住他们。DWords 使用 Electron + Vue + Bootstrap 开发，同时支持 Windows 和 macOS。
-# Moniker: 
+# Moniker: dwords2
 Tags:
 - 英语
 - 单词
