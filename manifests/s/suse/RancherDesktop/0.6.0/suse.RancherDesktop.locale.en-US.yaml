@@ -1,7 +1,7 @@
 # Created using wingetcreate 0.4.1.1
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.0.0.schema.json
 
-PackageIdentifier: suse.RancherDesktop
+PackageIdentifier: SUSE.RancherDesktop
 PackageVersion: 0.6.0
 PackageLocale: en-US
 Publisher: SUSE
@@ -17,4 +17,3 @@ Tags:
 - k3s
 ManifestType: defaultLocale
 ManifestVersion: 1.0.0
-

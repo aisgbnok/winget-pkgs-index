@@ -1,7 +1,7 @@
 # Created using wingetcreate 0.4.1.1
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.0.0.schema.json
 
-PackageIdentifier: suse.RancherDesktop
+PackageIdentifier: SUSE.RancherDesktop
 PackageVersion: 0.6.1
 Installers:
 - Architecture: x64
@@ -10,4 +10,3 @@ Installers:
   InstallerSha256: 3436021F10AE3AC6833898AC09C907820CFAD918BB65ED02E3C4F79744F2C9BE
 ManifestType: installer
 ManifestVersion: 1.0.0
-

@@ -1,7 +1,7 @@
 # Created with YamlCreate.ps1 v2.2.4 $debug=QUSU.CRLF.7-3-3.Win32NT
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.4.0.schema.json
 
-PackageIdentifier: Alist.Alist
+PackageIdentifier: AList.AList
 PackageVersion: 3.15.0
 InstallerType: zip
 ReleaseDate: 2023-03-25
